@@ -1,6 +1,6 @@
 # Color Changer App
 
-Description
+
 This is a simple color changer app built using HTML, CSS, and JavaScript. The app allows users to change
 the background color randomly when you click the button.
 
